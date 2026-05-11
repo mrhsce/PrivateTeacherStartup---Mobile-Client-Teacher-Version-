@@ -1,0 +1,35 @@
+const images = {
+  logo: require('./images/logo.png'),
+  ic_search: require('./images/ic_search.png'),
+  ic_left: require('./images/ic_left.png'),
+  ic_home: require('./images/ic_home.png'),
+  ic_Kind: require('./images/ic_Kind.png'),
+  ic_notifications: require('./images/ic_notifications.png'),
+  ic_menu: require('./images/ic_menu.png'),
+  bg: require('./images/bg.png'),
+  ic_nd_logout: require('./images/ic_nd_logout.png'),
+  ic_important: require('./images/ic_Important.png'),
+  ic_Phone: require('./images/ic_Phone.png'),
+  ic_Information: require('./images/ic_Information.png'),
+  ic_close: require('./images/ic_close.png'),
+  default_ProPic: require('./images/Default_ProPic.png'),
+  ic_edit: require('./images/ic_edit.png'),
+  nd_bg: require('./images/nd_bg.png'),
+  ic_expand: require('./images/ic_expand.png'),
+  ic_back: require('./images/ic_back.png'),
+  ic_filter: require('./images/ic_filter.png'),
+  checked_icon: require('./images/checked_icon.png'),
+  unchecked_icon: require('./images/unchecked_icon.png'),
+  tick_all_select: require('./images/tick_all_select.png'),
+  helpIcon: require('./images/helpIcon.png'),
+
+  book: require('./images/book.png'),
+  moreIcon: require('./images/moreIcon.png'),
+  binIcon: require('./images/binIcon.png'),
+
+  bg_ntf_Success: require('./images/bg_ntf_Succes.png'),
+  bg_ntf_Warning: require('./images/bg_ntf_Warning.png'),
+  bg_ntf_Error: require('./images/bg_ntf_Error.png'),
+};
+
+export default images;
